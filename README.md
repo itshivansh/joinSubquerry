@@ -14,4 +14,4 @@ Note: Download & execute the attached script in SQL Server to create database an
 5. Write a query to find all records from `Customers` and only those records from `Orders` whose `CustomerID` is common with `Customers` table `CustomerID`.
 6. In `Employees` table there are three columns - EmployeeId, EmployeeName & MgrId. MgrId is ManagerId. Each employee reports to the corresponding manager with respective MgrId. Write a query to display records from `Employees` table so that the names of the Employee and Manager should be displayed side by side based on which Employee reports to which Manager. The expected output is shown below in the screenshot. Hint: you have to use self join.
 
-![Self Join Result](SelfjoinResult.jpg "Self Join")
+![SelfJoinResult](screenshot/SelfJoinResult.jpg)
